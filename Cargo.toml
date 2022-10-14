@@ -1,0 +1,12 @@
+[package]
+name = "cypha"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hex = "0.4.3"
+base64 = "0.13.0"
+ascii_utils = "0.9.3"
+openssl = "0.10.42"
